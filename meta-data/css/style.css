@@ -1,0 +1,49 @@
+
+/*
+Name: Style Sheet
+
+Author: Dinesh Thakur
+
+Plugin URI: http://www.thinksoftsolutions.com/
+
+Description: This plugin will add metadata in post and page.
+
+Version: 1.0
+
+Author URI: http://www.thinksoftsolutions.com/
+
+
+*/
+
+body{
+
+}
+.meta{
+	Width:80%;
+}
+.meta label {
+    font-size: 15px;
+	font-weight: bold;
+}
+.meta input {
+    float: right;
+    width: 70%;
+}
+.meta textarea {
+    float: right;
+	height: 90px;
+    width: 70%;
+}
+.meta .title {
+    height: 60px;
+}
+.meta .keywords {
+    height: 60px;
+}
+.meta .description{
+	height: 120px;
+}
+.meta span{
+	float:right;
+	width:70%;
+}
